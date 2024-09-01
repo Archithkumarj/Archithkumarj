@@ -2,7 +2,7 @@
 - 👀 I’m interested in ECE
 - 🌱 I’m currently learning VERILOG
 - 💞️ I’m looking to collaborate on many projects with friends 
-- 📫 How to reach me Archithkumar2005@gmail.com
+- 📫 How to reach me archithkumar2005@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: :)
 - Studying at Sastra University
